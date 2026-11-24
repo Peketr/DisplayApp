@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DisplayApp.Cli/DisplayApp.Cli.csproj" />
+    <Project Path="src/DisplayApp.Core/DisplayApp.Core.csproj" />
+    <Project Path="src/DisplayApp/DisplayApp.csproj" />
+  </Folder>
+</Solution>
